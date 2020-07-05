@@ -13,3 +13,12 @@
 <h4>->SubPlots</h4>
 <br>
 <h2>3>.Pandas</h2>
+<h4>->Creating DataFrame</h4>
+<h4>->Creating DataFrame From the External File</h4>
+<h4>->Indroduction On the Rows AND Columns</h4>
+<h4>->Describing Data</h4>
+<h4>->Indexing and Slicing</h4>
+<h4>->Operations on Dataframes</h4>
+<h4>->Grouping and Pivoting</h4>
+<h4>->Merge and Append</h4>
+<h4>->Handling Time-Series Data</h4>
