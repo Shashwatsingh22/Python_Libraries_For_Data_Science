@@ -1,0 +1,7 @@
+Loading a csv with index
+Description
+Using the file ‘marks.csv’, create a dataframe as shown below.
+
+
+
+You must be able make the first column of the file as the index and name it 'S.No.'. Also, the columns must be renamed as shown in the image.
